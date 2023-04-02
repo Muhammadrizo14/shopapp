@@ -13,7 +13,7 @@
             Вы не добавили товар!
           </h1>
           <ul class="cart__list-buttons">
-            <li>
+            <li v-if="this.$store.getters.getAllInBasket.length">
               <button type="reset" class="cart__list-button" @click="this.$store.commit('removeAllFromBasket')">
                 Очистить корзину
               </button>
@@ -24,7 +24,7 @@
                 type="button"
                 class="cart__list-button"
               >
-                Продолжить покупки
+                 {{ this.$store.getters.getAllInBasket.length == 0 ? 'Сделать покупку ' : 'Продолжить покупки' }} 
               </router-link>
             </li>
           </ul>

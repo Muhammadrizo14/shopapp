@@ -38,6 +38,7 @@ export default createStore({
 
     removeAllFromBasket(state) {
       state.cart = []
+      state.totalPrice = 0
     }
     
   },

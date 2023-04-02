@@ -8226,7 +8226,8 @@ readers do not read off random characters that represent icons */
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  width: 100%;
+  width: 625px;
+  margin-top: 20px;
 }
 
 @media (max-width: 1024px) {

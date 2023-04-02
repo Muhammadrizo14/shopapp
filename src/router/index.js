@@ -1,9 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
-import Products from '@/views/Products.vue'
+import Products from '../views/Products.vue'
 import Product from '@/views/Product.vue'
 import Cart from '@/views/Cart.vue'
 import Registration from '@/views/registration.vue'
+import Sorteds from '../views/ProductsSorteds.vue'
 
 const routes = [
   {
@@ -26,6 +27,11 @@ const routes = [
   {
     path: '/registration',
     component: Registration,
+  },
+  {
+    name: 'Filter',
+    path: '/products/:sort/',
+    component: Sorteds,
   },
 ]
 

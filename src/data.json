@@ -3,84 +3,105 @@
     "id":0,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "2800 рубля",
-    "imgUrl": "man_with_backpack.jpg"
+    "price": "2800 рублей",
+    "imgUrl": "man_with_backpack.jpg",
+    "category": "shirts"
   },
   {
     "id": 1,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "2300 рубля",
-    "imgUrl": "girl_in_dark_suite.jpg"
+    "price": "2300 рублей",
+    "imgUrl": "girl_in_dark_suite.jpg",
+    "category": "shirts"
+
   },
   {
     "id": 2,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "3200 рубля",
-    "imgUrl": "man_in_hoody.jpg"
+    "price": "3200 рублей",
+    "imgUrl": "man_in_hoody.jpg",
+    "category": "polo"
   },
   {
     "id": 3,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "3600 рубля",
-    "imgUrl": "man_yellow_pants.jpg"
+    "price": "3600 рублей",
+    "imgUrl": "man_yellow_pants.jpg",
+    "category": "polo"
   },
   {
     "id": 4,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "3000 рубля",
-    "imgUrl": "girl_in_blue_suite.jpg"
+    "price": "3000 рублей",
+    "imgUrl": "girl_in_blue_suite.jpg",
+    "category": "jackets-coats"
   },
   {
     "id": 5,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "900 рубля",
-    "imgUrl": "girl_in_stripped_shirt.jpg"
+    "price": "900 рублей",
+    "imgUrl": "girl_in_stripped_shirt.jpg",
+    "category": "jackets-coats"
   },
   {
     "id": 6,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "$52.00",
-    "imgUrl": "man_in_red_shirt.jpg"
+    "price": "6000 рублей",
+    "imgUrl": "man_in_red_shirt.jpg",
+    "category": "tshorts"
   },
   {
     "id": 7,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "$52.00",
-    "imgUrl": "man_in_white_shirt.jpg"
+    "price": "10000 рублей",
+    "imgUrl": "man_in_white_shirt.jpg",
+    "category": "demi-season"
   },
   {
     "id": 8,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "$52.00",
-    "imgUrl": "man_in_baseball_cap.jpg"
+    "price": "2600 рублей",
+    "imgUrl": "man_in_baseball_cap.jpg",
+    "category": "demi-season"
   },
   {
     "id": 9,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "$52.00",
-    "imgUrl": "man_with_the_belt.jpg"
+    "price": "5200 рублей",
+    "imgUrl": "man_with_the_belt.jpg",
+    "category": "bags"
   },
   {
     "id": 10,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "$52.00",
-    "imgUrl": "man_with_a_dog.jpg"
+    "price": "2800 рублей",
+    "imgUrl": "man_with_a_dog.jpg",
+    "category": "accessories"
   },
   {
     "id": 11,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "$52.00",
-    "imgUrl": "man_scratching_his_head.jpg"
+    "price": "3000 рублей",
+    "imgUrl": "man_scratching_his_head.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": 12,
+    "title": "AirPods 3",
+    "description": "Беспроводные наушники Apple AirPods 3",
+    "price": "12000 рублей",
+    "imgUrl": "airpods.jpg",
+    "category": "accessories"
   }
 ]

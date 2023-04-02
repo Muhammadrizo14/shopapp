@@ -91,38 +91,38 @@
             <h3 class="header__navigation_list_heading">Мужской отдел</h3>
           </router-link>
           <ul>
-            <li><router-link class="header__navigation_link"  to="/catalog">Аксессуары</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/catalog">Сумки</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/catalog">Деми сезон</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/catalog">Футболки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/accessories/">Аксессуары</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/bags/">Сумки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/demi-season">Деми сезон</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/tshorts/">Футболки</router-link></li>
           </ul>
         </li>
         <li>
-          <router-link class="header__navigation_heading_link"  to="/catalog">
+          <router-link class="header__navigation_heading_link"  to="/products/catalog">
             <h3 class="header__navigation_list_heading">Женский отдел</h3>
           </router-link>
           <ul>
-            <li><router-link class="header__navigation_link"  to="/catalog">Аксессуары</router-link></li>
+            <li><router-link class="header__navigation_link" to="/products/accessories/">Аксессуары</router-link></li>
             <li>
-              <router-link class="header__navigation_link"  to="/catalog">Куртки и пальто</router-link>
+              <router-link class="header__navigation_link"  to="/products/jacketss-coats">Куртки и пальто</router-link>
             </li>
-            <li><router-link class="header__navigation_link"  to="/catalog">Поло</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/catalog">Футболки</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/catalog">Рубашки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/polo/">Поло</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/tshorts/">Футболки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/shirts/">Рубашки</router-link></li>
           </ul>
         </li>
         <li>
-          <router-link class="header__navigation_heading_link"  to="/catalog">
+          <router-link class="header__navigation_heading_link"  to="/products/catalog">
             <h3 class="header__navigation_list_heading">Детский отдел</h3>
           </router-link>
           <ul>
-            <li><router-link class="header__navigation_link"  to="/catalog">Аксессуары</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/accessories/">Аксессуары</router-link></li>
             <li>
-              <router-link class="header__navigation_link"  to="/catalog">Куртки и пальто</router-link>
+              <router-link class="header__navigation_link"  to="/products/jackets-coats">Куртки и пальто</router-link>
             </li>
-            <li><router-link class="header__navigation_link"  to="/catalog">Поло</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/catalog">Футболки</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/catalog">Рубашки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/polo/">Поло</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/tshorts/">Футболки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/shirts/">Рубашки</router-link></li>
           </ul>
         </li>
       </ul>
