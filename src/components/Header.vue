@@ -87,9 +87,9 @@
       <h2 class="header__navigation_heading">menu</h2>
       <ul class="header__navigation_list">
         <li>
-          <router-link class="header__navigation_heading_link" to="/catalog">
-            <h3 class="header__navigation_list_heading">Мужской отдел</h3>
-          </router-link>
+          <h3 class="header__navigation_heading_link">
+            <p class="header__navigation_list_heading">Мужской отдел</p>
+          </h3>
           <ul>
             <li><router-link class="header__navigation_link"  to="/products/accessories/">Аксессуары</router-link></li>
             <li><router-link class="header__navigation_link"  to="/products/bags/">Сумки</router-link></li>
@@ -98,9 +98,9 @@
           </ul>
         </li>
         <li>
-          <router-link class="header__navigation_heading_link"  to="/products/catalog">
-            <h3 class="header__navigation_list_heading">Женский отдел</h3>
-          </router-link>
+          <h3 class="header__navigation_heading_link"  to="/products/catalog">
+            <p class="header__navigation_list_heading">Женский отдел</p>
+          </h3>
           <ul>
             <li><router-link class="header__navigation_link" to="/products/accessories/">Аксессуары</router-link></li>
             <li>
@@ -112,9 +112,9 @@
           </ul>
         </li>
         <li>
-          <router-link class="header__navigation_heading_link"  to="/products/catalog">
-            <h3 class="header__navigation_list_heading">Детский отдел</h3>
-          </router-link>
+          <h3 class="header__navigation_heading_link"  to="/products/catalog">
+            <p class="header__navigation_list_heading">Детский отдел</p>
+          </h3>
           <ul>
             <li><router-link class="header__navigation_link"  to="/products/accessories/">Аксессуары</router-link></li>
             <li>
