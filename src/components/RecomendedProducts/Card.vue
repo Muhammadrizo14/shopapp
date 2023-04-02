@@ -13,7 +13,7 @@
           alt="Добавить в корзину"
           class="featured__item_btnimg"
         />
-        <span class="featured__item_btntxt">Add to cart</span>
+        <span class="featured__item_btntxt">Добавить в корзину</span>
       </button>
     </div>
     <router-link :to="link(data.id)">

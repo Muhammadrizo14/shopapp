@@ -1,6 +1,6 @@
 <template>
   <section class="advantages">
-    <h2 class="visually-hidden">Advantages</h2>
+    <h2 class="visually-hidden">Преимущества</h2>
     <div class="container advantages__wrapper">
       <ul class="advantages__list">
         <li class="advantages__list-item">

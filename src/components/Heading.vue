@@ -9,7 +9,7 @@
             class="nav-link heading__nav-link heading__nav-link-first"
             aria-current="page"
             href="#"
-            >home</a
+            >Гланая</a
           >
         </li>
         <li class="nav-item">
@@ -17,7 +17,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link active heading__nav-link heading__active" href="#"
-            >new arrivals</a
+            >Новые поступления</a
           >
         </li>
       </ul>

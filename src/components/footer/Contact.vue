@@ -1,7 +1,7 @@
 <template>
   <section class="subscribe">
     <div class="container subscribe__wrapper">
-      <h2 class="visually-hidden">Subscribe</h2>
+      <h2 class="visually-hidden">Подписаться</h2>
       <ul class="subscribe__list">
         <li class="subscribe__list_item">
           <img
@@ -26,7 +26,7 @@
               placeholder="enter your email"
             />
             <button type="submit" class="subscribe__list_item_button">
-              subscribe
+              Подписаться
             </button>
           </div>
         </li>

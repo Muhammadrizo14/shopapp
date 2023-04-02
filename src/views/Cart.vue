@@ -15,7 +15,7 @@
           <ul class="cart__list-buttons">
             <li>
               <button type="reset" class="cart__list-button" @click="this.$store.commit('removeAllFromBasket')">
-                clear shopping cart
+                Очистить корзину
               </button>
             </li>
             <li>
@@ -24,7 +24,7 @@
                 type="button"
                 class="cart__list-button"
               >
-                continue shopping
+                Продолжить покупки
               </router-link>
             </li>
           </ul>
@@ -38,7 +38,7 @@
             <div class="cart__total_checkout_wrapper">
               <hr class="cart__total_line" />
               <button type="submit" class="cart__total_checkout">
-                proceed to checkout
+                Перейти к оформлению заказа
               </button>
             </div>
           </div>

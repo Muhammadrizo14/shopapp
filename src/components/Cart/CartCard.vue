@@ -10,7 +10,7 @@
     <div class="cart__list-wrapper">
       <h3 class="cart__list-heading">{{ data.title }}</h3>
       <p class="cart__list-text">
-        Price: <span class="cart__list-pink">{{ data.price }}</span>
+        Цена: <span class="cart__list-pink">{{ data.price }}</span>
       </p>
       <div class="cart__list-subwrapper">
         <label class="cart__list-text">Quantity:</label>

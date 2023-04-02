@@ -3,13 +3,7 @@
     <div class="container header__wrapper">
       <div class="header__logo_wrapper">
         <router-link to="/"
-          ><img
-            class="header__logo"
-            src="@/assets/img/logo.svg"
-            width="44"
-            height="38"
-            alt="Логотип"
-        /></router-link>
+          ><h1 class="logo__header">Eleanor</h1></router-link>
         <div class="header__button header__search_button">
           <svg
             width="27"

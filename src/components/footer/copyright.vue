@@ -1,6 +1,6 @@
 <template>
   <section class="copyright">
-    <h2 class="visually-hidden">Copyright</h2>
+    <h2 class="visually-hidden">Авторские права</h2>
     <ul class="copyright__list container">
       <li>
         <p class="copyright__list_text">
@@ -28,9 +28,7 @@
 </template>
 
 <script>
-import { defineComponent } from "vue";
-
-export default defineComponent({
+export default {
   name: "credits-vue",
-});
+}
 </script>
