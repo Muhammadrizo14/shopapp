@@ -3,6 +3,7 @@ import Home from '../views/Home.vue'
 import Products from '@/views/Products.vue'
 import Product from '@/views/Product.vue'
 import Cart from '@/views/Cart.vue'
+import Registration from '@/views/registration.vue'
 
 const routes = [
   {
@@ -22,7 +23,10 @@ const routes = [
     path: '/cart',
     component: Cart,
   },
-  
+  {
+    path: '/registration',
+    component: Registration,
+  },
 ]
 
 const router = createRouter({
