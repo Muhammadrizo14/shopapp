@@ -91,38 +91,38 @@
             <p class="header__navigation_list_heading">Мужской отдел</p>
           </h3>
           <ul>
-            <li><router-link class="header__navigation_link"  to="/products/accessories/">Аксессуары</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/products/bags/">Сумки</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/products/demi-season">Деми сезон</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/products/tshorts/">Футболки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/man/accessories/">Аксессуары</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/man/bags/">Сумки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/man/demi-season">Деми сезон</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/man/tshorts/">Футболки</router-link></li>
           </ul>
         </li>
         <li>
-          <h3 class="header__navigation_heading_link"  to="/products/catalog">
+          <h3 class="header__navigation_heading_link"  to="/products/man/catalog">
             <p class="header__navigation_list_heading">Женский отдел</p>
           </h3>
           <ul>
-            <li><router-link class="header__navigation_link" to="/products/accessories/">Аксессуары</router-link></li>
+            <li><router-link class="header__navigation_link" to="/products/woman/accessories/">Аксессуары</router-link></li>
             <li>
-              <router-link class="header__navigation_link"  to="/products/jacketss-coats">Куртки и пальто</router-link>
+              <router-link class="header__navigation_link"  to="/products/woman/jackets-coats">Куртки и пальто</router-link>
             </li>
-            <li><router-link class="header__navigation_link"  to="/products/polo/">Поло</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/products/tshorts/">Футболки</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/products/shirts/">Рубашки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/woman/polo/">Поло</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/woman/tshorts/">Футболки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/woman/shirts/">Рубашки</router-link></li>
           </ul>
         </li>
         <li>
-          <h3 class="header__navigation_heading_link"  to="/products/catalog">
+          <h3 class="header__navigation_heading_link"  to="/products/child/catalog">
             <p class="header__navigation_list_heading">Детский отдел</p>
           </h3>
           <ul>
-            <li><router-link class="header__navigation_link"  to="/products/accessories/">Аксессуары</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/child/accessories/">Аксессуары</router-link></li>
             <li>
-              <router-link class="header__navigation_link"  to="/products/jackets-coats">Куртки и пальто</router-link>
+              <router-link class="header__navigation_link"  to="/products/child/jackets-coats">Куртки и пальто</router-link>
             </li>
-            <li><router-link class="header__navigation_link"  to="/products/polo/">Поло</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/products/tshorts/">Футболки</router-link></li>
-            <li><router-link class="header__navigation_link"  to="/products/shirts/">Рубашки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/child/polo/">Поло</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/child/tshorts/">Футболки</router-link></li>
+            <li><router-link class="header__navigation_link"  to="/products/child/shirts/">Рубашки</router-link></li>
           </ul>
         </li>
       </ul>

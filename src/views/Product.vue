@@ -169,3 +169,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.product__addtocart {
+  cursor: pointer;
+}
+</style>

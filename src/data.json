@@ -5,7 +5,8 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "2800 рублей",
     "imgUrl": "man_with_backpack.jpg",
-    "category": "shirts"
+    "category": "shirts",
+    "to": "man"
   },
   {
     "id": 1,
@@ -13,8 +14,26 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "2300 рублей",
     "imgUrl": "girl_in_dark_suite.jpg",
-    "category": "shirts"
-
+    "category": "shirts",
+    "to": "woman"
+  },
+  {
+    "id": 27,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "2300 рублей",
+    "imgUrl": "woman_shirt.webp",
+    "category": "shirts",
+    "to": "woman"
+  },
+  {
+    "id": 28,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "2300 рублей",
+    "imgUrl": "woman_shirt2.jpg",
+    "category": "shirts",
+    "to": "woman"
   },
   {
     "id": 2,
@@ -22,7 +41,8 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "3200 рублей",
     "imgUrl": "man_in_hoody.jpg",
-    "category": "polo"
+    "category": "polo",
+    "to": "man"
   },
   {
     "id": 3,
@@ -30,23 +50,35 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "3600 рублей",
     "imgUrl": "man_yellow_pants.jpg",
-    "category": "polo"
+    "category": "polo",
+    "to": "man"
   },
   {
-    "id": 4,
-    "title": "ELLERY X M'O CAPSULE",
-    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
-    "price": "3000 рублей",
-    "imgUrl": "girl_in_blue_suite.jpg",
-    "category": "jackets-coats"
-  },
-  {
-    "id": 5,
+    "id": 33,
     "title": "ELLERY X M'O CAPSULE",
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "900 рублей",
-    "imgUrl": "girl_in_stripped_shirt.jpg",
-    "category": "jackets-coats"
+    "imgUrl": "woman_jacket1.jpg",
+    "category": "jackets-coats",
+    "to": "woman"
+  },
+  {
+    "id": 34,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "900 рублей",
+    "imgUrl": "woman_jacket2.jpg",
+    "category": "jackets-coats",
+    "to": "woman"
+  },
+  {
+    "id": 35,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "900 рублей",
+    "imgUrl": "woman_jacket3.jpg",
+    "category": "jackets-coats",
+    "to": "woman"
   },
   {
     "id": 6,
@@ -54,7 +86,26 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "6000 рублей",
     "imgUrl": "man_in_red_shirt.jpg",
-    "category": "tshorts"
+    "category": "tshorts",
+    "to": "man"
+  },
+  {
+    "id": 36,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "6000 рублей",
+    "imgUrl": "man_shirt1.jpg",
+    "category": "tshorts",
+    "to": "man"
+  },
+  {
+    "id": 37,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "6000 рублей",
+    "imgUrl": "man_shirt2.jpg",
+    "category": "tshorts",
+    "to": "man"
   },
   {
     "id": 7,
@@ -62,7 +113,8 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "10000 рублей",
     "imgUrl": "man_in_white_shirt.jpg",
-    "category": "demi-season"
+    "category": "demi-season",
+    "to": "man"
   },
   {
     "id": 8,
@@ -70,7 +122,17 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "2600 рублей",
     "imgUrl": "man_in_baseball_cap.jpg",
-    "category": "demi-season"
+    "category": "demi-season",
+    "to": "man"
+  },
+  {
+    "id": 7,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "3230 рублей",
+    "imgUrl": "man_in_white_shirt.jpg",
+    "category": "demi-season",
+    "to": "man"
   },
   {
     "id": 9,
@@ -78,7 +140,26 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "5200 рублей",
     "imgUrl": "man_with_the_belt.jpg",
-    "category": "bags"
+    "category": "bags",
+    "to": "man"
+  },
+  {
+    "id": 38,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "5200 рублей",
+    "imgUrl": "man_bag1.jpg",
+    "category": "bags",
+    "to": "man"
+  },
+  {
+    "id": 39,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "5200 рублей",
+    "imgUrl": "man_bag2.jpg",
+    "category": "bags",
+    "to": "man"
   },
   {
     "id": 10,
@@ -86,7 +167,8 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "2800 рублей",
     "imgUrl": "man_with_a_dog.jpg",
-    "category": "accessories"
+    "category": "accessories",
+    "to": "man"
   },
   {
     "id": 11,
@@ -94,7 +176,8 @@
     "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
     "price": "3000 рублей",
     "imgUrl": "man_scratching_his_head.jpg",
-    "category": "accessories"
+    "category": "accessories",
+    "to": "man"
   },
   {
     "id": 12,
@@ -102,6 +185,178 @@
     "description": "Беспроводные наушники Apple AirPods 3",
     "price": "12000 рублей",
     "imgUrl": "airpods.jpg",
-    "category": "accessories"
+    "category": "accessories",
+    "to": "woman"
+  },
+  {
+    "id": 40,
+    "title": "AirPods 3",
+    "description": "Беспроводные наушники Apple AirPods 3",
+    "price": "12000 рублей",
+    "imgUrl": "airpods.jpg",
+    "category": "accessories",
+    "to": "man"
+  },
+  {
+    "id": 13,
+    "title": "Женское поло с длинным рукавом",
+    "description": "Базовый женский лонгслив впишется в любой гардероб. Благодаря натуральному составу и особенностям кроя подойдет для создания стильных повседневных образов.",
+    "price": "541 рублей",
+    "imgUrl": "woman_polo.jpg",
+    "category": "polo",
+    "to": "woman"
+  },
+  {
+    "id": 31,
+    "title": "Женское поло с длинным рукавом",
+    "description": "Базовый женский лонгслив впишется в любой гардероб. Благодаря натуральному составу и особенностям кроя подойдет для создания стильных повседневных образов.",
+    "price": "541 рублей",
+    "imgUrl": "woman_polo2.jpg",
+    "category": "polo",
+    "to": "woman"
+  },
+  {
+    "id": 32,
+    "title": "Женское поло с длинным рукавом",
+    "description": "Базовый женский лонгслив впишется в любой гардероб. Благодаря натуральному составу и особенностям кроя подойдет для создания стильных повседневных образов.",
+    "price": "541 рублей",
+    "imgUrl": "woman_polo3.jpg",
+    "category": "polo",
+    "to": "woman"
+  },
+  {
+    "id": 14,
+    "title": "Женское Футболка",
+    "description": "БScotch & Soda Women's V-Neck Tee with Piping Detail T-Shirt",
+    "price": "620 рублей",
+    "imgUrl": "woman_tshort.jpg",
+    "category": "tshorts",
+    "to": "woman"
+  },
+  {
+    "id": 29,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "6000 рублей",
+    "imgUrl": "woman_tshort2.jpeg",
+    "category": "tshorts",
+    "to": "woman"
+  },
+  {
+    "id": 30,
+    "title": "ELLERY X M'O CAPSULE",
+    "description": "Известная своим скульптурным подходом к традиционному пошиву одежды, австралийка арбитр cool Ким Эллери объединился с Moda Operandi.",
+    "price": "6000 рублей",
+    "imgUrl": "woman_tshort3.jpeg",
+    "category": "tshorts",
+    "to": "woman"
+  },
+  {
+    "id": 15,
+    "title": "Зимняя куртка",
+    "description": "Зимняя куртка",
+    "price": "1250 рублей",
+    "imgUrl": "child_jacket.jpg",
+    "category": "jackets-coats",
+    "to": "child"
+  },
+  {
+    "id": 25,
+    "title": "Зимняя куртка",
+    "description": "Зимняя куртка",
+    "price": "1250 рублей",
+    "imgUrl": "jackets-coats2.jpeg",
+    "category": "jackets-coats",
+    "to": "child"
+  },
+  {
+    "id": 26,
+    "title": "Зимняя куртка",
+    "description": "Зимняя куртка",
+    "price": "1250 рублей",
+    "imgUrl": "jackets-coats3.jpeg",
+    "category": "jackets-coats",
+    "to": "child"
+  },
+  {
+    "id": 16,
+    "title": "Детские поло",
+    "description": "Детские поло оптом",
+    "price": "1350 рублей",
+    "imgUrl": "child_polo.jpg",
+    "category": "polo",
+    "to": "child"
+  },
+  {
+    "id": 23,
+    "title": "Детские поло",
+    "description": "Детские поло оптом",
+    "price": "1350 рублей",
+    "imgUrl": "child_polo2.jpg",
+    "category": "polo",
+    "to": "child"
+  },
+  {
+    "id": 24,
+    "title": "Детские поло",
+    "description": "Детские поло оптом",
+    "price": "1350 рублей",
+    "imgUrl": "child_polo3.webp",
+    "category": "polo",
+    "to": "child"
+  },
+  {
+    "id": 17,
+    "title": "Детские Футболки",
+    "description": "Детские Футболки оптом",
+    "price": "1350 рублей",
+    "imgUrl": "child_tshort.webp",
+    "category": "tshorts",
+    "to": "child"
+  },
+  {
+    "id": 21,
+    "title": "Детские Футболки",
+    "description": "Детские Футболки оптом",
+    "price": "1350 рублей",
+    "imgUrl": "child_tshort2.webp",
+    "category": "tshorts",
+    "to": "child"
+  },
+  {
+    "id": 22,
+    "title": "Детские Футболки",
+    "description": "Детские Футболки оптом",
+    "price": "1350 рублей",
+    "imgUrl": "child_tshort3.jpg",
+    "category": "tshorts",
+    "to": "child"
+  },
+  {
+    "id": 18,
+    "title": "Детские Рубашки",
+    "description": "Детские Рубашки оптом",
+    "price": "150 рублей",
+    "imgUrl": "child_shirt.jpg",
+    "category": "shirts",
+    "to": "child"
+  },
+  {
+    "id": 19,
+    "title": "Детские Рубашки",
+    "description": "Детские Рубашки оптом",
+    "price": "150 рублей",
+    "imgUrl": "child_shirt2.jpg",
+    "category": "shirts",
+    "to": "child"
+  },
+  {
+    "id": 20,
+    "title": "Детские Рубашки",
+    "description": "Детские Рубашки оптом",
+    "price": "150 рублей",
+    "imgUrl": "child_shirt3.jpg",
+    "category": "shirts",
+    "to": "child"
   }
 ]

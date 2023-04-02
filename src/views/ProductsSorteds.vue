@@ -4,7 +4,7 @@
     <main>
       <Heading />
       <section class="catalog container">
-        <div class="catalog__grid">
+        <div class="catalog__grid" v-if="fff.length != 0">
           <div class="catalog__item" v-for="data in fff" v-bind:key="data.id">
             <div class="catalog__item-imgwrapper">
               <img
@@ -37,6 +37,9 @@
             </router-link>
           </div>
         </div>
+        <div v-else>
+          <h1 class="noproducts">Пока-что нету продуктов на этот запрос!</h1>
+        </div>
       </section>
     </main>
   </div>
@@ -62,8 +65,17 @@ export default {
   },
   computed: {
     fff() {
-      return this.data.filter(product=> product.category === this.$route.params.sort)
+      return this.data.filter(product=> product.to === this.$route.params.to && product.category === this.$route.params.sort)
+    },
+    aaa() {
+      return 1
     }
   }
 };
 </script>
+
+<style>
+.noproducts {
+  font-size: 66px;
+}
+</style>

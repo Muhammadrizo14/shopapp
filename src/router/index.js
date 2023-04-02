@@ -30,7 +30,7 @@ const routes = [
   },
   {
     name: 'Filter',
-    path: '/products/:sort/',
+    path: '/products/:to/:sort/',
     component: Sorteds,
   },
 ]
