@@ -26,13 +26,19 @@ export default createStore({
           count: 1
         })
       }
-      let countf = state.cart.price
-      console.log(countf);
       state.totalPrice = state.cart.reduce((sum, obj) => +obj.price.replace(/\D/g,'') * obj.count + sum, 0)
     },
 
     removeItemFromBasket(state, payload) {
+
+
+      state.totalPrice = state.cart.reduce((sum, obj) => {
+        let overPrice = +obj.price.replace(/\D/g,'') * +obj.count
+        return overPrice - sum
+    }, 0)
+
       state.cart = state.cart.filter(obj => obj.id !== payload.value)
+
     },
 
 

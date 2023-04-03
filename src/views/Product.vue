@@ -85,8 +85,8 @@
         <ul class="featured__list">
           <li
             class="featured__item"
-            v-for="(featuredItem, i) in featuredItems"
-            v-bind:key="i"
+            v-for="(featuredItem) in featuredItems"
+            v-bind:key="featuredItem.id"
           >
             <div class="featured__item_imgwrapper">
               <img
@@ -149,7 +149,7 @@
 <script>
 import Header from "@/components/Header.vue";
 import Heading from "@/components/Heading.vue";
-import data from "@/data.json";
+import json from "../data.json";
 import Contact from "@/components/footer/Contact.vue";
 import copyright from "@/components/footer/copyright.vue";
 
@@ -158,8 +158,8 @@ export default {
   components: { Header, Heading, Contact, copyright },
   data() {
     return {
-      data: data[+this.$route.params.id],
-      featuredItems: data.slice(1, 4),
+      data: json[+this.$route.params.id],
+      featuredItems: json.slice(1, 4),
     };
   },
   methods: {
